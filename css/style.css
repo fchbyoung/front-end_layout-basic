@@ -1,0 +1,68 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#header {
+    background: aqua;
+    height: 100px;
+    width: 100%;
+}
+
+#logo {
+    background: blueviolet;
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+#banner {
+    width: 70%;
+    height: 100px;
+    float: left;
+}
+
+#head-link {
+    background: chartreuse;
+    height: 40px;
+    padding-top: 10px;
+}
+
+#head-link a {
+    border-right: 1px solid;
+    padding-right: 10px;
+}
+
+#head-link input {
+    float: right;
+    border-radius: 5px;
+}
+
+#left {
+    height: 300px;
+    width: 100px;
+    background: aqua;
+    float: left;
+}
+
+#content {
+    background: blueviolet;
+    width: 1180px;
+    height: 300px;
+    float: left;
+    position: relative;
+}
+
+#right {
+    background: aquamarine;
+    height: 300px;
+}
+
+#footer {
+    background: cadetblue;
+    height: 100px;
+    width: 100%;
+}
+
+
+
